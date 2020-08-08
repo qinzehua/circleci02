@@ -1,6 +1,6 @@
 varsion: 2
 jobs:
-  build-vue:
+  build:
     docker:
       - image: circleci/node:10
     branches:
